@@ -2,7 +2,7 @@
 
 - 🌎 I'm **Brazilian**
 - 🎓 Graduate on **Computer Networks**
-- 🎓 Undergraduate student on **Software Engineer**
+- 🎓 Undergraduate student on **Software Engineering**
 - 👨🏻‍🔧 Sys Admin, Cloud, Servers, Networking, Infrastructure
 - 👨🏻‍💻 Hobbyist Student Developer
 - 👨🏻‍🏫 Passionate about **Sharing Knowledge**

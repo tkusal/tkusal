@@ -1,16 +1,17 @@
-## Hi there 👋
+<h2>It's me Thiago!👋🏻</h2>
 
-<!--
-**tkusal/tkusal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌎 I'm **Brazilian**
+- 🎓 Graduate on **Computer Networks**
+- 🎓 Undergraduate student on **Software Engineer**
+- 👨🏻‍🔧 Sys Admin, Cloud, Servers, Networking, Infrastructure
+- 👨🏻‍💻 Hobbyist Student Developer
+- 👨🏻‍🏫 Passionate about **Sharing Knowledge**
 
-Here are some ideas to get you started:
+<p><br></p> 
+<p align="center">
+<a href="https://linkedin.com/in/tkusal" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="tkusal"/></a>
+<a href="/http://tkusal.com.br" target="blank" font-size="6em"><img align="center" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="thiagokusal"/></a>
+<a href="https://www.youtube.com/c/thiagokusal" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="thiagokusal"/></a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tkusal&show_icons=true&locale=en&layout=compact&theme=blue-green" alt="tkusal" /></p>

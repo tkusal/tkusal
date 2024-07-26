@@ -1,4 +1,6 @@
-<h2>It's me Thiago!👋🏻</h2>
+<h2>
+   <a href="https://tkusal.com.br"><img src="https://readme-typing-svg.herokuapp.com?font=Noto+Sans&pause=1000&color=FFFFFF&width=435&height=35&lines=Hi+there!!+%F0%9F%91%8B;It's+me+Thiago!++%F0%9F%98%81" alt="Typing Greetings" /></a> 
+</h2>
 
 - 🌎 I'm **Brazilian**
 - 🎓 Graduate on **Computer Networks**

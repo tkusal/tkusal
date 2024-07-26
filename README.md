@@ -6,7 +6,8 @@
 - 👨🏻‍🔧 Sys Admin, Cloud, Servers, Networking, Infrastructure
 - 👨🏻‍💻 Hobbyist Student Developer
 - 👨🏻‍🏫 Passionate about **Sharing Knowledge**
-- 🪟 Microsoft Learn Student Ambassador & Microsoft Certified Professional
+- 🪟 <a href="https://mvp.microsoft.com/studentambassadors/profile/6a35dcc5-5ab4-482e-948c-069cf37c7b9a?wt.mc_id=studentamb_365381" target="blank">Microsoft Learn Student Ambassador</a> & Microsoft Certified Professional
+- 
 
 <p><br></p> 
 <p align="center">

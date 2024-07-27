@@ -6,7 +6,7 @@
 - 🎓 Graduate on **Computer Networks**
 - 🎓 Undergraduate student on **Software Engineering**
 - 👨🏻‍🔧 Sys Admin, Cloud, Servers, Networking, Infrastructure
-- 👨🏻‍💻 Hobbyist Student Developer
+- 👨🏻‍💻 Hobbyist Developer
 - 👨🏻‍🏫 Passionate about **Sharing Knowledge**
 - 🪟 <a href="https://mvp.microsoft.com/studentambassadors/profile/6a35dcc5-5ab4-482e-948c-069cf37c7b9a?wt.mc_id=studentamb_365381" target="blank">Microsoft Learn Student Ambassador</a> & MCT 
 

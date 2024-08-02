@@ -3,7 +3,7 @@
 </h2>
 
 - 🌎 I'm **Brazilian**
-- 🎓 Graduate on **Computer Networks**
+- 🎓 Technologist Diploma in **Computer Networks**
 - 🎓 Undergraduate student on **Software Engineering**
 - 👨🏻‍🔧 Sys Admin, Cloud, Servers, Networking, Infrastructure
 - 👨🏻‍💻 Hobbyist Developer

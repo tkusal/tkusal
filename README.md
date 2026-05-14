@@ -5,9 +5,11 @@
 - 🌎 I'm **Brazilian**
 - 🎓 Associate's Degree in **Computer Networks**
 - 🎓 Undergraduate student on **Software Engineering**
+- 🎓 Postgraduate degree in DevOps & Continuous software engineering
+- 🎓 Postgraduate degree in Information Security
 - 👨🏻‍🔧 Sys Admin, Cloud, Servers, Networking, Infrastructure
 - 👨🏻‍💻 Hobbyist Developer
-- 🪟 <a href="https://mvp.microsoft.com/studentambassadors/profile/6a35dcc5-5ab4-482e-948c-069cf37c7b9a?wt.mc_id=studentamb_365381" target="blank">Microsoft Learn Student Ambassador</a>
+- 🪟 <a href="https://mvp.microsoft.com/studentambassadors/profile/6a35dcc5-5ab4-482e-948c-069cf37c7b9a?wt.mc_id=studentamb_365381" target="blank">Gold Microsoft Student Ambassador</a>
 - 🧙🏻‍♂️ A comunity guy who loves help students grow
 
 <p><br></p> 

@@ -5,7 +5,7 @@
 - 🌎 I'm **Brazilian**
 - 🎓 Associate's Degree in **Computer Networks**
 - 🎓 B.Sc. in **Software Engineering**
-- 🎓 Specialization in **DevOps & Continuous software engineering** and **Information Security**
+- 🎓 Specialization in **DevOps & Continuous Software Engineering** and **Information Security**
 - 👨🏻‍🔧 Sys Admin, Cloud, Servers, Networking, Infrastructure
 - 👨🏻‍💻 Hobbyist Developer
 - 🪟 <a href="https://mvp.microsoft.com/studentambassadors/profile/6a35dcc5-5ab4-482e-948c-069cf37c7b9a?wt.mc_id=studentamb_365381" target="blank">Gold Microsoft Student Ambassador</a>
